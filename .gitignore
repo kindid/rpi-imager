@@ -1,0 +1,9 @@
+.DS_Store
+build-*
+CMakeLists.txt.user
+*.pro.user
+*.o
+*.obj
+*.a
+*.elf
+*.map
