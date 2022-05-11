@@ -7,3 +7,5 @@ CMakeLists.txt.user
 *.a
 *.elf
 *.map
+src/dependencies/libarchive-3.4.2/build/pkgconfig/libarchive.pc
+
